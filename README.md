@@ -1,4 +1,4 @@
-# jutsu-downloader
+# jut.su downloader
 
 get links list
 
