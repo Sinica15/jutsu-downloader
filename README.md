@@ -1,6 +1,6 @@
 # jut.su downloader
 
-get links list
+get links list on season page like this (https://jut.su/naruuto/season-2/)
 
 ```js
 Array.from(document.querySelectorAll("#dle-content > div > div:nth-child(2) > div.watch_list_item > ul > li")).map((node) => {
