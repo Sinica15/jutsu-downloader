@@ -1,0 +1,17 @@
+{
+    "name": "nrt_dwnld",
+    "version": "0.0.1",
+    "main": "dwnld.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+      "fs": "^0.0.1-security",
+      "puppeteer": "^24.1.1"
+    }
+  }
+  

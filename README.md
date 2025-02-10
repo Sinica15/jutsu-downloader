@@ -11,3 +11,7 @@ Array.from(document.querySelectorAll("#dle-content > div > div:nth-child(2) > di
 ```
 
 put links list to `jut_su_links.json`
+
+```sh
+npx tsx downloader.js
+```
